@@ -1,6 +1,6 @@
 {
   "name": "jmake",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A set of tools for creating a simple build system in nodejs",
   "main": "index.js",
   "dependencies": {
@@ -11,5 +11,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Joel Walker",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JWalker1995/jmake.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JWalker1995/jmake/issues"
+  },
+  "homepage": "https://github.com/JWalker1995/jmake#readme"
 }

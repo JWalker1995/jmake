@@ -1,8 +1,8 @@
 {
   "name": "jmake",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A set of tools for creating a simple build system in nodejs",
-  "main": "index.js",
+  "main": "jmake.js",
   "dependencies": {
     "glob": "^7.0.0"
   },

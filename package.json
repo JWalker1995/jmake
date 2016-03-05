@@ -1,0 +1,15 @@
+{
+  "name": "jmake",
+  "version": "1.0.1",
+  "description": "A set of tools for creating a simple build system in nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "glob": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel Walker",
+  "license": "ISC"
+}
